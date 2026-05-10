@@ -23,6 +23,7 @@ It was severity level 10 (high) indicating multiple user generated errors, the a
 ## Mitigations
 **Short term:**
 - Blocked the source-ip using iptables
+  
 **Long term:**
 - Activate MFA
 - Implement fail2ban
