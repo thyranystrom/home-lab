@@ -7,8 +7,8 @@ Wazuh dashboard triggered an alert with rule level 10, with Wazuh ID 40111/MITRE
 **MITRE technique:** T1110.001 (Password guessing)
 **Rule level:** 10 (high)
 ## Timeline
-The attack happened at May 10 2026, 18:43:15
-Wazuh alert triggered: May 10 2026, 18:43:30
+- The attack happened at May 10 2026, 18:43:15
+- Wazuh alert triggered: May 10 2026, 18:43:30
 And the IP was blocked shortly afterwards using iptables 
 ## Source information
 - Source ip: 192.168.56.107
